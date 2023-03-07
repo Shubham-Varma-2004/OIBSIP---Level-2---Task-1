@@ -1,4 +1,4 @@
-# OIBSIP---Level-2---Task-1
+# OIBSIP-Level-2-Task-1
 March Phase 1 OIBSIP
 
 Basic Calculator UI Working Page for Internship
